@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE:7/5/2024 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## support Removal Process
+![328552411-00131d69-dc3c-47e0-9e9a-07bc42171ffe](https://github.com/Rithviknathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148410509/446ec402-5dbf-4277-ad1b-40e14a958087)
+## UV Curing of 3D printed part
+![328552466-e45343b5-d383-471d-bb53-6e2f5df5ffb0](https://github.com/Rithviknathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148410509/bf2d863e-8880-478c-8487-f45578f3dcd4)
+## Heat Treatment of 3D printed part
+![328552514-f1c593e4-eb7d-41f4-9eb0-0b84ce083943](https://github.com/Rithviknathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148410509/701732b5-d5bc-4d7e-a648-eaad9caec249)
 
-### Name:
-### Register Number:
+### Name:RITHVIK S
+### Register Number: 212223100045
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
